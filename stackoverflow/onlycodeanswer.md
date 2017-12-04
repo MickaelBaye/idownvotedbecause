@@ -1,12 +1,10 @@
-Copy everything below and including the first --- line into your new page
-
 ---
-title: [This goes in the tab of the browser page]
-byline: [I downvoted because... whatever you put here will appear in the header]
-permalink: [should be a short description of your page in lower case with no spaces ending in a forward slash]/
-categories: [The category should match one in _config.yml under category-types, like "Stack Overflow"]
+title: Answer containing only code
+byline: answers containing nothing but code are not helping
+permalink: onlycodeanswer/
+categories: Stack Overflow
 redirect_from:
-  - [add one or more permalink alternatives with capltalization variants like PascalCase or alternative urls]
+  - OnlyCodeAnswer
 ---
 ## [Replace this title with the main thrust of your page] {#introduction}
 {::comment}In this paragraph, give the user the tl;dr lowdown. {:/}
